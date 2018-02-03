@@ -17,7 +17,7 @@ Użytkownik ma możliwość decydować o wartościach zmiennych w klasie Zlgodzi
 Użytkownik wprowadza ilość złotych godzin na dany dzień.
 Użytkownik może dodawać i usuwać typy.
 Użytkownik może dodawać i usuwać semestry.
-	Opis testów
+	Opis testów programu
 "Użytkownik wprowadza liczbę godzin na dziś:8, a także dodaje nowe typy: programowanie, fizyka(jeśli nie istnieją)".
 "Użytkownik tworzy złotą godzinę, której nadaje typ ZAP. Po jej zakończeniu zostaje dopisana do pliku baza_danych.txt".
 "Użytkownik zmienia typ ostatniej złotej godziny z ZAP na FIZ, co zostaje zmienione w pliku baza_danych.txt ".
